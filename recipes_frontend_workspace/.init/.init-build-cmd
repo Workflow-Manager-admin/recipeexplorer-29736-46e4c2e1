@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/recipeexplorer-29736-46e4c2e1/recipes_frontend_workspace/recipes_frontend"
+}
